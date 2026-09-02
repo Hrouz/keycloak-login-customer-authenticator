@@ -1,0 +1,4 @@
+sa\gov\taqeem\keycloak\auth\CustomAuthenticatorForm.class
+sa\gov\taqeem\keycloak\auth\CustomAuthenticatorFormFactory.class
+sa\gov\taqeem\keycloak\auth\Test.class
+sa\gov\taqeem\keycloak\auth\CustomAuthenticatorConstants.class
