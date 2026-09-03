@@ -138,7 +138,7 @@ For the government-ID lookup to work, each user that should be reachable by that
 1. Go to **Authentication → Flows**.
 2. Duplicate the flow you want to customize (e.g. duplicate *Browser*) or create a new one.
 3. In the duplicated flow, **remove/disable** the default **Username Password Form** execution.
-4. Click **Add execution**, select **Custom Authenticator By Taqeem**, and add it in the same position.
+4. Click **Add execution**, select **Custom Authenticator By Hrouz**, and add it in the same position.
 5. Set its requirement to **Required** (or **Alternative**, depending on your flow design).
 6. Bind the updated flow as the realm's **Browser flow** (or to the specific client/flow binding you're customizing) under **Authentication → Bindings**.
 
