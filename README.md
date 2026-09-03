@@ -117,7 +117,7 @@ target/keycloak-login-customer-authenticator-1.0.0.0-SNAPSHOT.jar
 
 3. Restart Keycloak (`kc.sh start` / `kc.sh start-dev`).
 
-Once started, the provider is registered under the id **`Custom Authenticator-by-Taqeem`**, and appears in the admin console as **"Custom Authenticator By Taqeem"** under *Authentication → Flows*.
+Once started, the provider is registered under the id **`Custom Authenticator-by-Hrouz`**, and appears in the admin console as **"Custom Authenticator By Hrouz"** under *Authentication → Flows*.
 
 ## Configuration
 
